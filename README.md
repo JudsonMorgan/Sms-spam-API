@@ -4,6 +4,8 @@ The machine learning model was developed using Random Forest Classifier with a e
 check the simple fast API scripts. 
 More upload should be done after embedding the API to docker image server.
 
+dataset can be gotten from the link https://www.kaggle.com/uciml/sms-spam-collection-dataset/
+
 # Dependency
 >> Python
 >> Scikit-learn
